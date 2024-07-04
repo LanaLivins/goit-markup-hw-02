@@ -73,8 +73,10 @@ a {
   letter-spacing: 0.04em;
   color: #fff;
   background-color: #4d5ae5;
+  cursor: pointer;
 }
 
+.page-hero-button:hover,
 .page-hero-button:hover {
   font-weight: 600;
   font-size: 16px;
@@ -100,15 +102,16 @@ a {
 }
 
 .page-team {
-  background-color: #f4f4fd;
+  background-color: #ffffff;
 }
 
 .team-text {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
+  text-transform: capitalize;
   color: #2e2f42;
 }
 
