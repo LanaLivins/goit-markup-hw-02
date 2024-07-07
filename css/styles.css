@@ -23,7 +23,7 @@ a {
   color: #4d5ae5;
 }
 
-.logo-header .logo-part {
+.logo-header .logo-part .nav-link {
   color: #2e2f42;
 }
 
@@ -32,7 +32,6 @@ a {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #2e2f42;
 }
 
 .nav-link,
