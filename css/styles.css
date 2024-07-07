@@ -27,7 +27,7 @@ a {
   color: #2e2f42;
 }
 
-.nav-item {
+.nav-link {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -35,9 +35,9 @@ a {
   color: #2e2f42;
 }
 
-.nav-item,
-.nav-list:hover,
-.nav-list:focus,
+.nav-link,
+.nav-link:hover,
+.nav-link:focus,
 .contacts-link:hover,
 .contacts-link:focus {
   color: #404bbf;
